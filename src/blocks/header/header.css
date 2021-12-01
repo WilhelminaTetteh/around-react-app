@@ -1,0 +1,23 @@
+@import url("./__signup/header__signup.css");
+@import url("./__signin/header__signin.css");
+@import url("./__logout/header__logout.css");
+@import url("./__nav/header__nav.css");
+@import url("./__email/header__email.css");
+
+.header {
+  max-width: 880px;
+  margin: 0 auto;
+  padding-top: 46px;
+  padding-bottom: 36px;
+  border-bottom: 1px solid rgba(84, 84, 84, 0.7);
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 425px) {
+  .header {
+    max-width: 100%;
+    min-height: 83px;
+    padding: 0;
+  }
+}

@@ -1,0 +1,27 @@
+.header__signup {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.header__signup:focus {
+  color: #ffffff;
+  text-decoration: none;
+}
+.header__signup:hover {
+  color: #ffffff;
+  opacity: 0.6;
+  text-decoration: none;
+}
+.header__signup:active {
+  color: #ffffff;
+  text-decoration: none;
+}
+@media screen and (max-width: 768px) {
+  .header__signup {
+    font-size: 12px;
+  }
+}
