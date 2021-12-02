@@ -1,5 +1,5 @@
 
-## [Take a Look at the Project ](https://WilhelminaTetteh.github.io/around-react-app){:target="\_blank"}
+## [Take a Look at the Project ](https://WilhelminaTetteh.github.io/around-react-app)
 
 https://WilhelminaTetteh.github.io/around-react-app
 Around the U.S. project on React, featuring authorization and registration.
